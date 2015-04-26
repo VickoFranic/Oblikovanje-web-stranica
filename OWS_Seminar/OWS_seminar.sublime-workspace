@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"re",
+				"background-repeat"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Workspace/index.html",
+			"settings":
+			{
+				"buffer_size": 320,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"githu	",
+				"Github: Repository"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/OWS_Seminar/OWS_seminar.sublime-project",
+		"/F/Vicina_skola_gitare/index.html",
+		"/F/Vicina_skola_gitare/css/style.css",
+		"/C/Users/RV/Documents/OBJEKTNO_GITHUB/Objektno-programiranje/Objektno_Vjezba_05/README.md",
+		"/D/PROGRAMI/Sublime Text 2.0.2 x64/Data/Packages/Terminal/Base File.sublime-settings",
+		"/C/Users/RV/Desktop/CIMA/ivancinotti.com/ems.html",
+		"/C/Users/RV/Desktop/CIMA/ivancinotti.com/style.css",
+		"/D/PROGRAMI/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/PROGRAMI/Sublime Text 2.0.2 x64/Data/Packages/User/HTML.sublime-settings",
+		"/D/PROGRAMI/Sublime Text 2.0.2 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/RV/Documents/Strukture-podataka-i-algoritmi-master/Vjezba_02/Vjezba_02/test.txt",
+		"/C/Users/RV/Documents/Strukture-podataka-i-algoritmi-master/Vjezba_02/Vjezba_02/test.stl",
+		"/C/Users/RV/Documents/Strukture-podataka-i-algoritmi-master/Vjezba_02/Vjezba_02/primjerbin.stl",
+		"/D/PROGRAMI/Sublime Text 2.0.2 x64/Data/Packages/Git/Git.sublime-settings",
+		"/D/PROGRAMI/Sublime Text 2.0.2 x64/Data/Packages/User/Git.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ul",
+			"#menu",
+			"menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Workspace/index.html",
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/F/OWS_Seminar/OWS_seminar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,92 @@
+/*
+ * Custom css file - RETES
+ * Oblikovanje WEB stranica
+ * Vicko Franic, Marin Capeta
+ */
+
+body {
+	overflow-x: hidden;
+	position: relative;
+}
+
+section {
+	font-family: 'Karma', serif;
+	padding-top: 120px;
+	min-height: 1024px;
+}
+
+ nav {
+ 	font-size: 1.2em;
+ 	font-family: 'Karma', serif;
+ 	background: rgba(0, 255, 255, 0.8);
+  }
+
+  .navbar-header {
+  	padding-top: 25px;
+  	padding-bottom: 25px;
+  }
+
+  .navbar-header img {
+  	padding-top: 10px;
+  	width: 50%;
+  }
+
+  .nav li {
+  	padding-top: 30px;
+  	padding-bottom: 25px;
+  }
+
+  .nav li a {
+  	color: #000000;
+  }
+
+  .section-naslov {
+ 	text-align: center;
+ }
+
+ #home {
+ 	color:#FFFFFF;
+ 	background-image: url(../img/big/back.jpg);
+ 	background-size: cover;
+ 	overflow-x: hidden;
+ }
+
+ #home .intro-naslov {
+ 	display: none;
+ 	font-family: sans-serif;
+ 	font-size: 9em;
+ 	margin-top: 120px;
+ }
+
+ #home .intro-opis {
+ 	font-size: 2em;
+ }
+
+ #home .strelica {
+ 	display: none;
+ 	font-size: 7em;
+ 	padding-top: 80px;
+ 	text-shadow: 0px 3px 3px #000000;
+ }
+
+ #print {
+ 	background-color: #E0FFFF;
+ }
+
+ #print .print-usluge span {
+ 	padding-right: 40px;
+ }
+
+ #print .print-usluge li {
+ 	font-size: 1.3em;
+ 	border: none;
+ 	background-color: transparent;
+ }
+
+ #print .img-circle {
+ 	border:1px solid #000000;
+ }
+
+#kontakt {
+	background-color: #E0FFFF;
+}
