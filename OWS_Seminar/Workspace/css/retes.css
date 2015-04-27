@@ -12,7 +12,7 @@ body {
 section {
 	font-family: 'Karma', serif;
 	padding-top: 120px;
-	min-height: 1024px;
+	min-height: 960px;
 }
 
  nav {
@@ -49,6 +49,7 @@ section {
  	background-image: url(../img/big/back.jpg);
  	background-size: cover;
  	overflow-x: hidden;
+  min-height: 1200px;
  }
 
  #home .intro-naslov {
@@ -82,6 +83,19 @@ section {
  	border: none;
  	background-color: transparent;
  }
+
+#print .print-extra li {
+  font-size: 1.1em;
+  background-color: transparent;
+  border: none;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+#print .print-extra span {
+ margin: 0 50%;
+ font-size: 1.5em;
+}
 
  #print .img-circle {
  	border:1px solid #000000;

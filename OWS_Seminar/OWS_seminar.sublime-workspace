@@ -4,8 +4,60 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"print-usluge"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"backg",
+				"background-clip"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"ser",
+				"sans-serif"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"sc",
+				"scrollSpy"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
 				"back",
-				"background-size"
+				"background-color"
 			],
 			[
 				"fo",
@@ -14,14 +66,6 @@
 			[
 				"tex",
 				"text-indent"
-			],
-			[
-				"paddi",
-				"padding-right"
-			],
-			[
-				"padd",
-				"padding-bottom"
 			],
 			[
 				"background",
@@ -48,14 +92,6 @@
 				"border"
 			],
 			[
-				"marg",
-				"margin"
-			],
-			[
-				"margi",
-				"margin-top"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -79,8 +115,26 @@
 			"file": "Workspace/index.html",
 			"settings":
 			{
-				"buffer_size": 320,
+				"buffer_size": 5793,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Workspace/js/retes.js",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Windows",
+				"name": "// Highlight the top nav as scrolling occurs"
+			}
+		},
+		{
+			"file": "Workspace/css/retes.css",
+			"settings":
+			{
+				"buffer_size": 1301,
+				"line_ending": "Windows",
+				"name": "/*"
 			}
 		}
 	],
@@ -136,6 +190,7 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/OWS_Seminar/OWS_seminar.sublime-project",
 		"/F/OWS_Seminar/OWS_seminar.sublime-project",
 		"/F/Vicina_skola_gitare/index.html",
 		"/F/Vicina_skola_gitare/css/style.css",
@@ -188,7 +243,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -196,15 +251,15 @@
 					"file": "Workspace/index.html",
 					"settings":
 					{
-						"buffer_size": 320,
+						"buffer_size": 5793,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								320,
-								320
+								4045,
+								4045
 							]
 						],
 						"settings":
@@ -212,7 +267,61 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Workspace/js/retes.js",
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Highlight the top nav as scrolling occurs",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Workspace/css/retes.css",
+					"settings":
+					{
+						"buffer_size": 1301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1298,
+								1298
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
